@@ -5,3 +5,6 @@ Sakura Cloud Shell Tools
 
 curl -sL https://raw.githubusercontent.com/AtsushiSakai/SakuraCloudShellTools/master/ipython.sh | sh
 
+## Install julis
+
+curl -sL https://raw.githubusercontent.com/AtsushiSakai/SakuraCloudShellTools/master/julia.sh | sh
