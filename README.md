@@ -1,7 +1,7 @@
 # SakuraCloudShellTools
 Sakura Cloud Shell Tools
 
-https://secure.sakura.ad.jp/cloud-shell/
+https://secure.sakura.ad.jp/cloud-shell/cpanel/member
 
 ## Install ipython
 
